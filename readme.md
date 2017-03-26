@@ -1,6 +1,6 @@
-# rScript
 
-<p align="center"><a href="http://rscript.io" target="_blank"><img height="100" src="https://cdn.restive.io/img/logo_rscript_github.png"></a></p>
+<p align="center"><a href="http://rscript.io" target="_blank"><img height="90" src="https://cdn.restive.io/img/logo_rscript_github.png"></a></p>
+
 
 rScript is a designer-friendly JavaScript toolkit for building better websites.
 
