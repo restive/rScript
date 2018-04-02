@@ -6,4 +6,4 @@
 
 Using a special technique [called turbo-classes] and robust API methods, rScript turbocharges both CSS and JavaScript to enable you quickly and easily build responsive, fast, and intelligent websites in much less time, and in much fewer steps than the status quo.  
 
-**Coming February 2018**. We're almost there, folks! Apologies for the delays; this will be the last extension. Click the *watch* button above to stay in the loop.
+**Coming Soon**. We're almost there, folks! Apologies for the delays; this will be the last extension. Click the *watch* button above to stay in the loop.
